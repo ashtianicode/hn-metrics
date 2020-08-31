@@ -1,0 +1,8 @@
+dump/
+notes
+*.json
+__pycache__/
+frontend/
+.env
+prod.env
+Procfile
